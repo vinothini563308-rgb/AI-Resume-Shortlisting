@@ -1,0 +1,21 @@
+Priyanshu Sharma
+Bengaluru, India | priyanshu.sharma@example.com | +91 98765 43210
+
+PROFESSIONAL SUMMARY
+Full-Stack & AI Software Developer with 2+ years of hands-on experience building reactive React interfaces, high-throughput Python backends, and ML inference microservices. Passionate about end-to-end product engineering.
+
+WORK EXPERIENCE
+Full-Stack Engineer - NextWave Technologies (2023 - Present)
+• Engineered modern responsive UI with React, TypeScript, Tailwind CSS, and HTML/CSS.
+• Integrated REST APIs and GraphQL endpoints handling 200k monthly active users.
+• Built predictive analytics dashboards using Python, Pandas, and SQL databases.
+
+Associate Software Developer - CodeLabs (2022 - 2023)
+• Developed automated database migrations and authentication services in PostgreSQL and Node.js.
+• Containerized microservices using Docker and orchestrated CI/CD workflows on GitHub.
+
+EDUCATION
+B.Tech in Computer Science and Engineering - National Institute of Technology (NIT) (2022)
+
+SKILLS
+React, JavaScript, TypeScript, Python, SQL, REST API, HTML, CSS, Git, GitHub, Node.js, Docker, API Integration, Problem Solving

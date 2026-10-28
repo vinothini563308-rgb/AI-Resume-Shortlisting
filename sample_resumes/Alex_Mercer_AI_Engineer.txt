@@ -1,0 +1,21 @@
+Alex Mercer
+San Francisco, CA | alex.mercer@example.com | +1 (555) 234-5678 | github.com/alexmercer
+
+SUMMARY
+Senior Machine Learning Engineer with 5+ years of experience designing scalable AI systems, NLP pipelines, and REST APIs using Python, PyTorch, Scikit-learn, and SQL. Deployed microservices on AWS with Docker.
+
+EXPERIENCE
+Senior AI Engineer - HyperScale AI (2021 - Present)
+• Designed and trained deep learning NLP models using PyTorch and Scikit-learn, achieving 94% F1-score on customer intent classification.
+• Engineered resilient REST APIs with FastAPI and Docker, handling 15M daily requests.
+• Optimized complex SQL queries and data extraction across 20TB PostgreSQL cluster.
+
+Machine Learning Developer - DataStream Inc (2019 - 2021)
+• Built predictive models using Python, Pandas, and Scikit-learn for churn prediction.
+• Implemented automated model monitoring pipelines.
+
+EDUCATION
+B.S. in Computer Science - University of California, Berkeley (2019)
+
+SKILLS
+Python, Machine Learning, Scikit-Learn, PyTorch, SQL, REST API, Docker, AWS, NLP, Pandas, Git, FastAPI, Database Management

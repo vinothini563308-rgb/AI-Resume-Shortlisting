@@ -1,0 +1,20 @@
+Sarah Chen
+New York, NY | sarah.chen@example.com | +1 (555) 345-6789
+
+PROFESSIONAL SUMMARY
+Data Scientist & ML Developer with 3.5 years of experience in statistical analysis, machine learning algorithms, Scikit-learn, and Python programming. Experienced in SQL database querying and cloud deployments.
+
+PROFESSIONAL EXPERIENCE
+Data Scientist - FinTech Labs (2022 - Present)
+• Developed fraud detection algorithms with Scikit-learn, Python, and SQL.
+• Created microservices and REST API endpoints for real-time risk scoring.
+• Assisted in containerization with Docker and deployments to AWS EC2.
+
+Junior Python Developer - NextGen Systems (2020 - 2022)
+• Maintained data pipelines with Pandas, NumPy, and SQL.
+
+EDUCATION
+B.S. in Statistics and Data Science - Columbia University (2020)
+
+SKILLS
+Python, Machine Learning, Scikit-Learn, SQL, REST API, Docker, AWS, Pandas, NumPy, Statistics, Git

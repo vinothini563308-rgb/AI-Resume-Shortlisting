@@ -1,0 +1,40 @@
+NITHARSHANA P S
+SOFTWARE DEVELOPER | +91 9994198237 | nitharshh2007@gmail.com
+
+SUMMARY
+Computer Science (AI & ML) student with a CGPA of 8.8, passionate about building real-world solutions using software and artificial intelligence. Experienced in developing full-stack applications and AI-driven projects, with a strong focus on problem-solving, scalability, and user-centric design. Continuously learning and exploring modern technologies to grow as a developer.
+
+WORK EXPERIENCE
+COLLEGE PROJECTS & HACKATHONS
+ATRIVA
+• Developed an AI-driven ICU crisis intelligence system for real-time patient monitoring
+• Processed multimodal healthcare data (ECG, vital signs) for analysis
+• Implemented predictive models to detect early signs of patient deterioration
+• Designed a scalable architecture using federated learning concepts
+• Focused on improving clinical decision-making and reducing response time
+Auriva
+• Built an AI-powered accessibility solution to enhance digital usability
+• Developed intelligent features to assist users with diverse accessibility needs
+• Improved navigation and interaction through adaptive system design
+• Focused on creating an inclusive and user-friendly experience
+ARGUS
+• Developed an intelligent monitoring and analytics platform
+• Implemented real-time data tracking and anomaly detection
+• Generated actionable insights for faster decision-making
+• Focused on improving system efficiency and reliability
+RAIN
+• Created an AI-based environmental monitoring system
+• Implemented rainfall prediction and climate analysis models
+• Processed environmental data to generate insights and alerts
+• Focused on enabling better planning for weather-dependent activities
+CampusSync
+• Designed and developed a full-stack campus management system
+• Implemented authentication with role-based access (student, admin)
+• Built secure login with device-based restrictions
+• Developed QR-based attendance tracking system
+
+EDUCATION
+I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science (AI & ML) at Karunya Institute of Technology and Sciences, Coimbatore, with a CGPA of 8.8. I am in Semester 2 (First Year) and expected to graduate in 2029.
+
+SKILLS
+HTML, CSS, JavaScript, React, SQL, C Programming, Python, Internet of Things, Git, GitHub, API Integration, Database Management, Artificial Intelligence, Machine Learning Fundamentals, Problem Solving
